@@ -1,0 +1,7 @@
+<HTML>
+HELLO SOLARIS!
+
+<SCRIPT>
+alert("solaris");
+</SCRIPT>
+</HTML>
